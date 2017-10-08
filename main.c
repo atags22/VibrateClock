@@ -3,7 +3,7 @@
 
 volatile unsigned char eigths = 0;
 volatile unsigned char seconds = 0;
-volatile unsigned char minutes_ones = 5;
+volatile unsigned char minutes_ones = 3;
 volatile unsigned char minutes_tens = 3;
 volatile unsigned char hours = 11;
 char toPrint[4];

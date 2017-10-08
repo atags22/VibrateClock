@@ -1,7 +1,7 @@
 ******************************************************************************
                   MSP430 Linker PC v16.9.0                     
 ******************************************************************************
->> Linked Sat Oct 07 23:32:19 2017
+>> Linked Sat Oct 07 22:52:13 2017
 
 OUTPUT FILE NAME:   <Clock.out>
 ENTRY POINT SYMBOL: "_c_int00_noargs_noexit"  address: 0000fece
