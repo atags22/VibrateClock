@@ -58,8 +58,8 @@ __interrupt void Timer_A0_ISR(void) {
                 minutes_ones = 0;
                 minutes_tens ++;
                 if(minutes_tens > 5){
-                    hours++;
                     minutes_tens = 0;
+                    hours++;
                     if(hours > 12){
                         hours = 1;
                     }
