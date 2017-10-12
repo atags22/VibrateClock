@@ -10,3 +10,6 @@ The important parts of the circuit are as follows:
 
 Less importantly, I'm powering the MSP430 from a CR2032 button cell battery and the vibration motor from a rechargable ML2020 button cell battery. There's a built-in charging circuit.
 I made this decision because I want the MSP430 to still be powered even if the vibration motor's battery dies. This way the clock will keep the time for many many years.
+
+##  Current Issues ##
+The board resets if I probe the ground pin with a voltage meter. The board resets if I touch it while statically charged. More shielding and filtering is needed.
