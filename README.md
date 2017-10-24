@@ -13,3 +13,6 @@ I made this decision because I want the MSP430 to still be powered even if the v
 
 ##  Current Issues ##
 The board resets if I probe the ground pin with a voltage meter. The board resets if I touch it while statically charged. More shielding and filtering is needed.
+
+##  LICENSE  ##
+MIT License
